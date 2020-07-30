@@ -44,5 +44,3 @@ CGPA: **3.71** (out of **4.00**)
 ---
 * **Email:** tahanimachowdhury@gmail.com
 * **Github:** [https://github.com/Tahanima](https://github.com/Tahanima)
-
-{% pdf "resume.pdf" %}
