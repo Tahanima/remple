@@ -2,10 +2,14 @@ title: Tahanima Chowdhury
 description: Software Engineer, QA @ Therap (BD) Ltd.
 baseurl: ""
 url: ""
-pdf_url: ""
 
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-pdf-embed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
   
