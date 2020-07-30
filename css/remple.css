@@ -8,3 +8,28 @@ body {
     line-height: 2em;
     font-family: LObster, "URW Chancery L", cursive;
 }
+
+.nav-item {
+    float: right;
+    margin: 0 0 0 17em;
+    font-size: 0.5em;
+    font-weight: normal;
+    font-family: Cambria, Georgia, serif;
+}
+
+@media (max-width: 850px) {
+    .title-remple {
+        float: none;
+        text-align: center;
+        line-height: 1.75em;
+    }
+
+	.nav-item {
+        float: none;
+        margin: 0;
+        padding: 0;
+        display: block;
+        text-align: center;
+        line-height: 1.75em;
+    }
+}

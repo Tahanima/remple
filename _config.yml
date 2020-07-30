@@ -2,6 +2,7 @@ title: Tahanima Chowdhury
 description: Software Engineer, QA @ Therap (BD) Ltd.
 baseurl: "/remple/"
 url: ""
+resume_url: "resume.pdf"
 
 markdown: kramdown
 theme: minima
