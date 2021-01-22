@@ -2,9 +2,34 @@
     <div class="wrapper">
         {%- assign default_paths = site.pages | map: "path" -%}
         {%- assign page_paths = site.header_pages | default: default_paths -%}
-        <p class="site-title title-remple">
-            {{ site.title | escape }}
-            <a class="nav-item" target="_blank" href="{{ site.resume_url }}">Resume</a>
-        </p>
+        <div class="header-container">
+            <div class="header-item">
+                <img class ="photo" src="{{ site.photo_url }}">
+                <div class="info-remple">
+                    <p class="title-remple">{{ site.title | escape }}</p>
+                    <div class="contact">
+                        {% if site.email %}
+                            <a href="mailto:{{ site.email }}"><i class="fa fa-envelope fa-lg"></i></a>
+                        {% endif %}
+
+                        {% if site.linkedin %}
+                            <a class="contact-item" href="{{ site.linkedin }}"><i class="fa fa-linkedin fa-lg"></i></a>
+                        {% endif %}
+
+                        {% if site.github %}
+                            <a class="contact-item" href="{{ site.github }}"><i class="fa fa-github fa-lg"></i></a>
+                        {% endif %}
+
+                        {% if site.website %}
+                            <a class="contact-item" href="{{ site.website }}"><i class="fa fa-globe fa-lg"></i></a>
+                        {% endif %}
+
+                        {% if site.medium %}
+                            <a class="contact-item" href="{{ site.medium }}"><i class="fa fa-medium fa-lg"></i></a>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </header>

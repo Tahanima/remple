@@ -1,39 +1,81 @@
-body {
-    font-family:  'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+body { font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+.site-header {
+    border-top: 0px;
+    border-bottom: 2px dashed #cccccc;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+}
+
+.header-item {
+    display: flex;
+    justify-content: space-around;
 }
 
 .title-remple {
+    display: flex;
     font-size: 2.5em;
-    font-weight: bold;
-    line-height: 2em;
     font-family: LObster, "URW Chancery L", cursive;
-    width: 100%;
+    margin-bottom: 0px;
+    margin-left: auto;
 }
 
-.nav-item {
-    float: right;
-    font-size: 0.5em;
-    font-weight: normal;
-    font-family:  'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    text-align: right;
-    width: 50%;
+.photo {
+    border-radius: 50%;
+    border: 2px solid white;
+    width: 30%;
+}
+
+.info-remple {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    font-weight: bold;
+}
+
+.contact {
+    display: flex;
+    margin-left: auto;
+    margin-top: 1em;
+}
+
+.contact a {
+    color: white;
+    font-size: large;
+    border-radius: 50%;
+    padding: 0.5em;
+    background-color: black;
+}
+  
+.contact-item {
+    margin-left: 10px;
 }
 
 @media (max-width: 850px) {
-    .title-remple {
-        float: none;
-        text-align: center;
-        line-height: 1.75em;
-        width: 100%;
+    .header-item {
+        flex-direction: column;
     }
 
-	.nav-item {
-        float: none;
-        margin: 0;
-        padding: 0;
-        display: block;
-        text-align: center;
-        line-height: 1.75em;
-        width: 100%;
+    .photo {
+        align-self: center;
+    }
+
+    .title-remple {
+       margin: auto;
+    }
+
+    .contact {
+        margin: auto;
     }
 }
