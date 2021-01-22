@@ -63,6 +63,10 @@ hr {
     text-align: center;
     background-color: black;
 }
+
+.contact a:hover {
+    background-color: #8c8c89;
+}
   
 .contact-item {
     margin-left: 5px;
