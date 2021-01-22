@@ -30,13 +30,13 @@ features/improvement of existing features/bug fixes targeting a release
 * Created challenges for the contests: *Women's CodeSprint 3*, *Women's CodeSprint 4*, *Women's CodeSprint 5* and *RookieRank 4 in HackerRank for Developers*
 * Created challenges for technical recruiting in HackerRank for Work
 
-**Sourcetop, Inc**  
+### Sourcetop, Inc  
 ***Jr. Software Engineer (Feb 2018 – Aug 2018)*** &middot;	***Full-time***
 * Worked as a Backend Developer
 * Developed Sourcetop's website using Drupal 8
 * Worked on data migration tasks for an online educational platform project built using Moodle LMS
 
-**BRAC University**    
+### BRAC University     
 ***Undergraduate Teaching Assistant (Jun 2015 – Aug 2016)*** &middot;	***Part-time***  
 * Appointed for the course, Programming Language II (CSE 111)
 * Helped students during tutoring time to understand concepts of Object-Oriented Language (Java)
@@ -47,7 +47,7 @@ features/improvement of existing features/bug fixes targeting a release
 ---
 ## EDUCATION
 ---
-**BRAC University**  
+### BRAC University  
 *Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)*  
 CGPA: **3.71** (out of **4.00**) 
 
