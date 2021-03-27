@@ -26,3 +26,6 @@ Prerequisite: Knowledge of Github and Markdown Syntax
 * Choose **master** as the source branch and **/ (root)** as the folder.
 * You can then access your site at ***[github_user_name].github.io/[repo_name]/***
 * Note: **repo_name** is **remple** if you have not changed your repository name otherwise it is your preferred name.
+
+## License
+<a rel="license" href="https://opensource.org/licenses/MIT"><img alt="MIT License" style="border-width:0" height="50" src="https://w7.pngwing.com/pngs/514/841/png-transparent-mit-license-bsd-licence-open-source-license-copyright-miscellaneous-text-logo.png" /></a><br />This work is licensed under the <a rel="license" href="https://opensource.org/licenses/MIT">MIT License</a>.
