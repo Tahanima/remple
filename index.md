@@ -10,12 +10,11 @@ title: Resume
 ### Therap (BD) Ltd.  
 ***Software Engineer, QA (Oct 2019 - Present)*** &middot;	***Full-time***   
 
-Additional Responsibilities:
-* Find scopes of test automation
-* Prepare test automation scripts using Selenium WebDriver (Java)
+* Has been the primary QA personnel responsible for a number of re-designed modules of my team
+* Has assisted an external team at Therap for one of their re-designed modules 
+* Find scopes of test automation and prepare test automation scripts using Selenium WebDriver (Java)
 * Guide new QA members in the team
 
-### Therap (BD) Ltd.
 ***Associate Software Engineer, QA (Sep 2018 – Sep 2019)*** &middot;	***Full-time*** 
 * Perform exploratory testing and, document and report bugs for each assigned new
 features/improvement of existing features/bug fixes targeting a release
@@ -51,6 +50,13 @@ features/improvement of existing features/bug fixes targeting a release
 *Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)*  
 CGPA: **3.71** (out of **4.00**) 
 
+### Oxford International School
+*GCE A Level*  
+Result: **4 As** and **1 B**
+
+*GCE O Level*  
+Result: **4 A*s**, **3 As** and **2 Bs**
+
 <br />
 
 ---
@@ -70,11 +76,7 @@ CGPA: **3.71** (out of **4.00**)
 ## PROJECT
 ---
 * **[Test Automation Boilerplate](https://github.com/Tahanima/test-automation-boilerplate):** Ready to use UI Test Automation Architecture  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
-* **[Saucedemo Test Automation](https://github.com/Tahanima/saucedemo-test-automation):** UI test automation project of [this](https://www.saucedemo.com) site  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, Git
-* **[Restful-Booker API Test Automation](https://github.com/Tahanima/restful-booker-api-test-automation):** API test automation project against [this](https://restful-booker.herokuapp.com) api  
-**Tools** &#124; **Technologies:** Java, REST Assured, TestNG, Git  
+**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git 
 
 <br />
   
